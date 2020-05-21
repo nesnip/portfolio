@@ -101,8 +101,14 @@
   margin: 3rem 0 3rem;
 }
 
-.social-icon {
-  width: 2em;
+.icon-content-margin {
+  margin: 1rem;
+}
+
+.contact-info {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
 }
 
 @keyframes wave {

@@ -185,7 +185,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .intro-section .logo, .intro-section p {
-  margin-bottom: 120px;
+  margin-bottom: 90px;
 }
 
 @media (min-width: 992px) {
@@ -529,6 +529,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 #detail .close {
+  cursor: pointer;
   position: absolute;
   right: 0;
   z-index: 999;
@@ -1444,7 +1445,7 @@ a {
 
 a:hover, a:focus {
   color: #2a5d2b;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 h1,
