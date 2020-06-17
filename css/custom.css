@@ -30,6 +30,12 @@
   text-align: justify;
 }
 
+@media (max-width: 578px) {
+  .about {
+    font-size: 1.1rem;
+  }
+}
+
 .arrow-down {
   width: 20px;
   margin-bottom: 15px;
